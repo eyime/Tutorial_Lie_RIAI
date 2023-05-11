@@ -4,4 +4,4 @@ This repository contains the files related to the article titled "Analisis Dinam
 Examples are:
 - Five Bar -> directory E1FiveBar
 - Spatial Four Bar -> directory E2FourBar
-- 3-RRR planar parallel robot -> directory E33RRR
+- 3-RRR planar parallel robot -> directory E4Planar3RRR
